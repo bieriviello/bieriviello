@@ -1,16 +1,33 @@
-## Hi there 👋
+### Olá, eu sou o Gabriel Riviello 👋
 
-<!--
-**bieriviello/bieriviello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web focado em automação e interfaces modernas.
+Apaixonado por resolver problemas reais com código limpo e bem estruturado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+#### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Bionexo Bot](https://github.com/bieriviello/Bionexorobo) | Robô de automação de cotações para fornecedores | Python, Selenium |
+| [LicitaBusc](https://github.com/bieriviello/LicitaBusc) | Busca de licitações públicas | TypeScript |
+| [tela-login](https://github.com/bieriviello/tela-login) | Tela de login com persistência de dados | JavaScript |
+
+---
+
+#### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
+
+📍 São Paulo, BR

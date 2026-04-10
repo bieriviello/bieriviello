@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Riviello 👋
+### Olá, eu sou o Gabriel Riviello 
 
 Desenvolvedor web focado em automação e interfaces modernas.
 Apaixonado por resolver problemas reais com código limpo e bem estruturado.

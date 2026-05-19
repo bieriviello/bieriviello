@@ -1,4 +1,4 @@
-<div align="center">
+0<div align="center">
 <!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Gabriel%20Riviello&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20S%C3%A3o%20Paulo,%20BR&descAlignY=58&descSize=14"/>
 <!-- TYPING -->
@@ -16,17 +16,6 @@
 ## 👨‍💻 Sobre Mim
  
 ```typescript
-const gabriel = {
-  pronouns: "ele/dele",
-  location: "São Paulo, SP 🇧🇷",
-  role: "Desenvolvedor Full Stack",
-  education: "Bacharelado em Ciência da Computação — FAM",
-  currentFocus: ["React.js", "TypeScript", "Node.js", "Cloud (AWS)"],
-  learning: ["Data Science", "IA aplicada", "Arquitetura de Software"],
-  languages: ["pt-BR (nativo)", "en (intermediário)", "es (básico)"],
-  mindset: "Foco em entrega de valor e resolução de problemas reais"
-};
-```
  
 🎯 Desenvolvedor Full Stack com experiência prática em projetos reais. Atuação profissional com **React.js (JSX/TSX)**, **TypeScript**, **JavaScript**, **Python**, **PostgreSQL** e **APIs REST**.
  
@@ -132,17 +121,6 @@ Sistema completo de captação de leads via **QR Code**, com formulário respons
 </div>
 ---
  
-## 🎓 Formação & Certificações
- 
-🎓 **Bacharelado em Ciência da Computação** — Faculdade das Américas (FAM) · 2019–2022
- 
-📚 **Cursos & Certificações:**
-- 🤖 **Data Science Academy** (2025) — Fundamentos de Data Science e IA
-- 💻 **Udemy** — Python, JavaScript e TypeScript: Desenvolvimento Web Moderno
-- ☁️ **DIO** — AWS Serverless e Arquitetura REST com Node.js
-- 📊 **DIO** — Power BI: Criação de Dashboards Interativos
-- ☕ **DIO** — Desenvolvimento Java e PostgreSQL
----
  
 ## 💡 Soft Skills
  
